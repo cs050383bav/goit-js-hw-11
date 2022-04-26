@@ -11,7 +11,7 @@ body {
   line-height: 1.5;
   color: rgb(0, 0, 0);
   margin: 0;
-  background-image: linear-gradient(-100deg, rgba(7, 7, 7, 0.9) 10%, rgba(61, 61, 61, 0.8) 90%);
+  // background-image: linear-gradient(-100deg, rgba(7, 7, 7, 0.9) 10%, rgba(61, 61, 61, 0.8) 90%);
 }
 
 a {
@@ -27,10 +27,10 @@ p {
   padding-top: 10px;
   padding-bottom: 10px;
   position: fixed;
-  background-color: #2d2d2e;
-  box-shadow: 0 1px 3px rgba(235, 235, 235, 0.12), 0 1px 1px rgba(207, 207, 207, 0.14),
-    0 2px 1px rgba(241, 241, 241, 0.2);
-  z-index: 1;
+  // background-color: #2d2d2e;
+  // box-shadow: 0 1px 3px rgba(235, 235, 235, 0.12), 0 1px 1px rgba(207, 207, 207, 0.14),
+  //   0 2px 1px rgba(241, 241, 241, 0.2);
+  // z-index: 1;
 }
 
 .search-form {
@@ -42,8 +42,8 @@ p {
 .search-form input {
   width: 20%;
   border-radius: 4px 0 0 4px;
-  border: none;
-  outline: none;
+  border: rgb(5, 5, 5);
+  // outline: none;
   background-color: rgb(248, 248, 248);
   padding: 8px 10px;
   font: inherit;
