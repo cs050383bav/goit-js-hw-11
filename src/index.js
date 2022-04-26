@@ -1,6 +1,2 @@
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import SimpleLightbox from "simplelightbox";
-
-import './sass/main.scss';
-
-
+import './css/styles.css';
+import './js/main';
