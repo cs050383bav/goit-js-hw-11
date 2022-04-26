@@ -1,4 +1,3 @@
-ines (19 sloc) 588 Bytes
 export { onScroll, onToTopBtn };
 
 const toTopBtn = document.querySelector('.btn-to-top');
